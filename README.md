@@ -18,4 +18,4 @@ Al correr el programa, insertar las estaciones de metro de origen y destino con 
 El programa retornará como salida un automata en forma de texto con la ruta resultante, y también, la generación de un archivo PNG del automata con colores y detalles.
 
 Ejemplo de archivo PNG de salida:
-file:///home/d1360/Documents/LFA_proyecto/automaton.png![image](https://user-images.githubusercontent.com/91985914/213078326-cd8b6dfb-be20-49cd-b930-fcbf32322e25.png)
+(https://user-images.githubusercontent.com/91985914/213078326-cd8b6dfb-be20-49cd-b930-fcbf32322e25.png)
